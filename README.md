@@ -14,6 +14,7 @@ Android FOODY demonstrates utilizing these components to create a simple food re
 
 In this application user can view recipe, add them in local storage, review them.
 There is also filter search, instructions of recipe and overview of the recipes and food joke fragment.
+It also support dark android dark theme.
 
 
 Getting Started
@@ -46,9 +47,42 @@ const val API_KEY = "[Your API_Key]"
 Screenshots
 -----------
 
-![List of plants](screenshots/phone_plant_list.png "A list of plants")
-![Plant details](screenshots/phone_plant_detail.png "Details for a specific plant")
-![My Garden](screenshots/phone_my_garden.png "Plants that have been added to your garden")
+<table>
+  <tr>
+    <td>View recipes</td>
+     <td>Overview</td>
+     <td>Instructions</td>
+  </tr>
+  <tr>
+    <td><img src="Images/recipes.png" width=270 height=480></td>
+    <td><img src="Images/overview.png" width=270 height=480></td>
+    <td><img src="Images/instruction.png" width=270 height=480></td>
+  </tr>
+  
+   <tr>
+    <td>Ingredients</td>
+     <td>Filter meal search</td>
+     <td>Search</td>
+  </tr>
+  <tr>
+    <td><img src="Images/ingredients.png" width=270 height=480></td>
+    <td><img src="Images/filter_meal.png" width=270 height=480></td>
+    <td><img src="Images/search.png" width=270 height=480></td>
+  </tr>
+  
+   <tr>
+    <td>Favorites recipes</td>
+     <td>Save rcipes</td>
+     <td>food jokes</td>
+  </tr>
+  <tr>
+    <td><img src="Images/favorites.png" width=270 height=480></td>
+    <td><img src="Images/save_recipe.png" width=270 height=480></td>
+    <td><img src="Images/food_joke.png" width=270 height=480></td>
+  </tr>
+  
+  
+  
 
 Libraries Used
 --------------
