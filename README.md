@@ -109,7 +109,6 @@ Libraries Used
   * [Layout][35] - Lay out widgets using different algorithms.
   * [Layout][shimmer recyclerview] - A custom recycler view with shimmer views to indicate that views are loadings.
 * Third party and miscellaneous libraries
-  * [Glide][90] for image loading
   * [Hilt][92]: for [dependency injection][93]
   * [Kotlin Coroutines][91] for managing background threads with simplified code and reducing needs for callbacks
 
