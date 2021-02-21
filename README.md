@@ -107,7 +107,7 @@ Libraries Used
   * [Animations & Transitions][31] - Move widgets and transition between screens.
   * [Fragment][34] - A basic unit of composable UI.
   * [Layout][35] - Lay out widgets using different algorithms.
-  * [Layout][shimmer recyclerview] - A custom recycler view with shimmer views to indicate that views are loadings.
+  * [shimmer recyclerview][100] - A custom recycler view with shimmer views to indicate that views are loadings.
 * Third party and miscellaneous libraries
   * [Hilt][92]: for [dependency injection][93]
   * [Kotlin Coroutines][91] for managing background threads with simplified code and reducing needs for callbacks
