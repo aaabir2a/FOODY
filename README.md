@@ -80,6 +80,7 @@ Screenshots
     <td><img src="Images/save_recipe.png" width=270 height=480></td>
     <td><img src="Images/food_joke.png" width=270 height=480></td>
   </tr>
+  </table>
   
   
   
