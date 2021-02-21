@@ -1,26 +1,20 @@
-Android Sunflower
+Android FOODY
 =================
 
-A gardening app illustrating Android development best practices with Android Jetpack.
-
-Android Sunflower is currently under heavy development.
-Note that some changes (such as database schema modifications) are not backwards
-compatible and may cause the app to crash. In this
-case, please uninstall and re-install the app.
+Modern food recipes application using kotlin coroutines and retrofit2.
 
 Introduction
 ------------
 
-Android Jetpack is a set of components, tools and guidance to make great Android apps. They bring
-together the existing Support Library and Architecture Components and arrange them into four
-categories:
+Kotlin Coroutines: A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously. 
+Retrofit: Retrofit is type-safe REST client for Android and Java which aims to make it easier to consume RESTful web services. ... Retrofit automatically serialises the JSON response using a POJO(Plain Old Java Object) which must be defined in advanced for the JSON Structure.
 
-![Android Jetpack](screenshots/jetpack_donut.png "Android Jetpack Components")
+Android FOODY demonstrates utilizing these components to create a simple food recipe app.
 
-Android Sunflower demonstrates utilizing these components to create a simple gardening app.
-Read the
-[Introducing Android Sunflower](https://medium.com/androiddevelopers/introducing-android-sunflower-e421b43fe0c2)
-article for a walkthrough of the app.
+
+In this application user can view recipe, add them in local storage, review them.
+There is also filter search, instructions of recipe and overview of the recipes and food joke fragment.
+
 
 Getting Started
 ---------------
